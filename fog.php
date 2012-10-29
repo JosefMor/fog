@@ -194,3 +194,7 @@ $fog->password = "password";
 $fog->recipientMailAddress = "recipient@gmail.com";
 $fog->recipientName = "Recipient Name";
 $fog->forward();
+
+/* 
+#Credits : 
+* inspired by: http://www.electrictoolbox.com/php-imap-message-body-attachments/ */
